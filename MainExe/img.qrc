@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>flagbr.jpg</file>
+        <file>flagfin.png</file>
+        <file>flagswe.png</file>
+        <file>bankbg.jpg</file>
+        <file>transferArrow.png</file>
+        <file>transfer.png</file>
+    </qresource>
+</RCC>
